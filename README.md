@@ -6,11 +6,8 @@ source bin/activate
 ```
 2. Install
 ```
-pip3 install django-silk
-pip3 install graphitesend
-pip3 install pyformance
+pip3 install -r requirements.txt
 ```
-graphitesend and pyformance are installed because of I used this same project for Graphite project.
 
 3. 
 ```
